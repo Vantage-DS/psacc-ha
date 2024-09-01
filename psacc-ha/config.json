@@ -1,7 +1,7 @@
 {
-  "name": "PSA Car Controller",
+  "name": "VDS PSA Car Controller",
   "version": "v3.5.3",
-  "slug": "psacc",
+  "slug": "vdspsacc",
   "description": "Control and get information from your PSA car",
   "arch": [
     "amd64",
@@ -15,7 +15,7 @@
   "ports": {
     "5000/tcp": null
     },
-  "image": "flobz/psa_car_controller",
+  "image": "vantage-ds/psa_car_controller",
   "legacy": true,
   "ingress": true,
   "ingress_port": 5000,
