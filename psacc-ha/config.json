@@ -1,7 +1,7 @@
 {
   "name": "VDS PSA Car Controller",
   "version": "v3.5.3",
-  "slug": "vdspsacc",
+  "slug": "psacc",
   "description": "Control and get information from your PSA car",
   "arch": [
     "amd64",
